@@ -1,0 +1,30 @@
+{
+  "revision": "2020.04.21.01",
+  "starters": [
+    {"word": "Apish", "definition": "Foolish, resembling an ape"},
+    {"word": "Artless", "definition": "Crude, unskillful"},
+    {"word": "Beslubbering", "definition": "Smear, smeared, slobbering"},
+    {"word": "Calumniating", "definition": "Uttering maliciously false statements"},
+    {"word": "Cautelous", "definition": "Crafty, deceitful"},
+    {"word": "Churlish", "definition": "Rude, vulgar"},
+    {"word": "Coldblooded", "definition": "Emotionless"}
+  ],
+  "middles": [
+    {"word": "Bald-pated", "definition": "Lacking hair on the scalp"},
+    {"word": "Barren-spirited", "definition": "Empty, unoriginal"},
+    {"word": "Beast-eating", "definition": "Immature, unweaned; 'beast' or 'beest' is the milk a cow produced soon after calving"},
+    {"word": "Beef-witted", "definition": "Having the intelligence of a cow"},
+    {"word": "Boiled-brains", "definition": "Senseless, hotheaded"},
+    {"word": "Clay-brained", "definition": "Stupid"},
+    {"word": "Dirt-rotten", "definition": "Filthy, decaying"}
+  ],
+  "finishers": [
+    {"word": "Abomination", "definition": "Loathsome thing; cause of disgust"},
+    {"word": "Arch-villain", "definition": "Principal foe or enemy"},
+    {"word": "Baggage", "definition": "Prostitute; term of contempt for an immoral woman"},
+    {"word": "Bed-presser", "definition": "Heavy, lazy person"},
+    {"word": "Blockhead", "definition": "One who is slow to understand; thick-skulled"},
+    {"word": "Braggart", "definition": "Person who boasts loudly"},
+    {"word": "Bugbear", "definition": "Bogey; frightful imaginary object"}
+  ]
+}

@@ -2,11 +2,17 @@ const Discord = require("discord.js");
 const Enmap = require("enmap");
 const fs = require("fs");
 
+//< Get the Discord 'client' and associated local 'config.json'
 const client = new Discord.Client();
 const config = require("./config.json");
 
+//< This is the JSON file that contains all the word definitions
+const words = require("./words.json");
+
 //< Assign the config to the client so it remains accessible
 client.config = config;
+//< See if we can just assign the 'Words' to the Client itself
+client.words = words;
 
 //< Iterate through all the '{events}.js' files and add 'em
 fs.readdir("./events/", (err, files) => {
