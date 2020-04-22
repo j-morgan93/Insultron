@@ -21,7 +21,21 @@
     {"word": "Goatish", "definition": "Lustful"},
     {"word": "Gorbellied", "definition": "Big bellied, fat paunched"},
     {"word": "Greasy", "definition": "Oily; insincerely polite"},
-    {"word": "Heinous", "definition": "Outrageously wicked, odious, atrocious"}
+    {"word": "Heinous", "definition": "Outrageously wicked, odious, atrocious"},
+    {"word": "Incontinent", "definition": "Indulging lust without restraint"},
+    {"word": "Inexecrable", "definition": "Unable to be overly execrated (to feel or express great loathing for) or detested"},
+    {"word": "Insolent", "definition": "Rude, disrespectful"},
+    {"word": "Leacherous", "definition": "Excessively sex-driven"},
+    {"word": "Lisping", "definition": "Speaking childishly, or affectedly"},
+    {"word": "Loathly", "definition": "Disgusting, repulsive"},
+    {"word": "Lubberly", "definition": "Awkward, clumsy, loutish"},
+    {"word": "Lumpish", "definition": "Poorly formed; stupid"},
+    {"word": "Mammering", "definition": "Hesitating, stammering (Insultron says: human)"},
+    {"word": "Musty", "definition": "Moldy; stale; to emit a bad smell"},
+    {"word": "Naughty", "definition": "Wicked, worthless; this word has stronger meaning in Shakespeare's time than in ours"},
+    {"word": "Obscene", "definition": "Repugnant, morally offensive"},
+    {"word": "Overgorged", "definition": "Gluttonously stuffed"},
+    {"word": "Panderly", "definition": "Pimping (see: Wayne Brady)"},
   ],
   "middles": [
     {"word": "Bald-pated", "definition": "Lacking hair on the scalp"},
@@ -44,7 +58,14 @@
     {"word": "Hook-nosed", "definition": "Having a nose resembling an eagle's beak"},
     {"word": "Ill-tempered", "definition": "Irritable, in a foul mood"},
     {"word": "Knotty-pated", "definition": "Thick-headed"},
-    {"word": "Leaden-footed", "definition": "Clumsily moving"}
+    {"word": "Leaden-footed", "definition": "Clumsily moving"},
+    {"word": "Leptus-leering", "definition": "Smiling like a 'toady'"},
+    {"word": "Lily-livered", "definition": "Easily scared, cowardly"},
+    {"word": "Logger-headed", "definition": "Stupidly blockheaded"},
+    {"word": "Lust-breathed", "definition": "Inspired by lust"},
+    {"word": "Motley-minded", "definition": "Foolish"},
+    {"word": "Mouse-eaten", "definition": "Rodent-chewed (but like.. why, man?)"},
+    {"word": "Muddy-mettled", "definition": "Dull-spirited"}
   ],
   "finishers": [
     {"word": "Abomination", "definition": "Loathsome thing; cause of disgust"},
@@ -67,6 +88,13 @@
     {"word": "Dunghill", "definition": "Heap of excrement"},
     {"word": "Fashion-monger", "definition": "One foolishly concerned with fashion"},
     {"word": "Fleshmonger", "definition": "Fornicator"},
-    {"word": "Foot-licker", "definition": "Sycophant, flatterer"}
+    {"word": "Foot-licker", "definition": "Sycophant, flatterer"},
+    {"word": "Fustilarian", "definition": "Fat, frowsy, slut"},
+    {"word": "Geck", "definition": "Dupe, fool, object of scorn"},
+    {"word": "Giglet", "definition": "Giddy girl; lewd wanton person"},
+    {"word": "Horn-beast", "definition": "Lower creature"},
+    {"word": "Horse-back-breaker", "definition": "Immensely overweight"},
+    {"word": "Idiot-worshipper", "definition": "One with faith in stupidity"},
+    {"word": "Jack-a-nape", "definition": "Ape, monkey; conceited person"}
   ]
 }

@@ -18,7 +18,7 @@ exports.run = (client, message, args) => {
 
   //< Get the 'joiner' ('a' or 'an' depending on starting character)
   let joiner = getJoiner(starter.word);
-
+  
   //< TODO :: Generate an embed with the full definitions of each part
   const weddedAndEmbedded = {
   	color: 0x0099ff,
@@ -45,10 +45,12 @@ exports.run = (client, message, args) => {
   	},
   };
 
-  //< Reply to them bitches
-  message.channel.send({content:`${target}, you are ${joiner} ${insult}!`, embed: weddedAndEmbedded });
-
-  //message.channel.send(`${target.user.username}, you are ${joiner} ${insult}!`).catch(console.error);
+  //< Reply to them bitches (and then react to your own joke you bot fuck)
+  message.channel.send({content:`${target}, you are ${joiner} ${insult}!`, embed: weddedAndEmbedded })
+    .then((msg) => {
+      msg.react('👍');
+      msg.react('👎');
+    }).catch(console.error);
 }
 
 function getJoiner(str){
@@ -64,8 +66,3 @@ function startsWithVowel(str){
   let vowelRegex = '^[aieouAIEOU].*';
   return str.match(vowelRegex);
 }
-
-//< Idea -> JSON file has three arrays: Starters, Middles, Finishers
-//< Parse that JSON file into a known object (call it Words) structure in Insultron.js
-//< Words are then passed as an argument to Insult.run()
-//< Function simply gets a random index for all three words and slaps the insult together
