@@ -1,5 +1,5 @@
 {
-  "revision": "2020.04.21.01",
+  "revision": "2020.04.22.01",
   "starters": [
     {"word": "Apish", "definition": "Foolish, resembling an ape"},
     {"word": "Artless", "definition": "Crude, unskillful"},
@@ -7,7 +7,21 @@
     {"word": "Calumniating", "definition": "Uttering maliciously false statements"},
     {"word": "Cautelous", "definition": "Crafty, deceitful"},
     {"word": "Churlish", "definition": "Rude, vulgar"},
-    {"word": "Coldblooded", "definition": "Emotionless"}
+    {"word": "Coldblooded", "definition": "Emotionless"},
+    {"word": "Concupiscible", "definition": "Desirous, lustful"},
+    {"word": "Covetous", "definition": "Greedy; envious of the possessions of others"},
+    {"word": "Crudy", "definition": "Thick, as in 'curdy'; pronounced 'cruddy' or 'croody'"},
+    {"word": "Cuckoldy", "definition": "Having the qualities of a cuckold; haplessly victimized"},
+    {"word": "Deceptious", "definition": "Deceiving, delusive"},
+    {"word": "Degenerate", "definition": "Lacking morals"},
+    {"word": "Facinerous", "definition": "Extremely wicked and vile"},
+    {"word": "Fawning", "definition": "Giving exaggerated praise to gain favour"},
+    {"word": "Finical", "definition": "Foppish in matters of dress; fussily fastidious (that clears it right up, right?)"},
+    {"word": "Fusty", "definition": "Moldy, stale"},
+    {"word": "Goatish", "definition": "Lustful"},
+    {"word": "Gorbellied", "definition": "Big bellied, fat paunched"},
+    {"word": "Greasy", "definition": "Oily; insincerely polite"},
+    {"word": "Heinous", "definition": "Outrageously wicked, odious, atrocious"}
   ],
   "middles": [
     {"word": "Bald-pated", "definition": "Lacking hair on the scalp"},
@@ -16,7 +30,21 @@
     {"word": "Beef-witted", "definition": "Having the intelligence of a cow"},
     {"word": "Boiled-brains", "definition": "Senseless, hotheaded"},
     {"word": "Clay-brained", "definition": "Stupid"},
-    {"word": "Dirt-rotten", "definition": "Filthy, decaying"}
+    {"word": "Dirt-rotten", "definition": "Filthy, decaying"},
+    {"word": "Dizzy-eyed", "definition": "Giddy, staring"},
+    {"word": "Dull-brained", "definition": "Dimwitted"},
+    {"word": "Eye-offending", "definition": "Difficult or painful to look at"},
+    {"word": "Fat-kidneyed", "definition": "Gluttonous"},
+    {"word": "Flap-eared", "definition": "Having large ears"},
+    {"word": "Foul-mouthed", "definition": "Using vile language (see: Insultron)"},
+    {"word": "Half-blooded", "definition": "Partly of noble and partly low birth"},
+    {"word": "Hard-haired", "definition": "Having thick or wiry hair"},
+    {"word": "Hell-governed", "definition": "Under the influence of the Devil; mischievous"},
+    {"word": "Hollow-eyed", "definition": "Having sunken eyes, like those of a cadaver"},
+    {"word": "Hook-nosed", "definition": "Having a nose resembling an eagle's beak"},
+    {"word": "Ill-tempered", "definition": "Irritable, in a foul mood"},
+    {"word": "Knotty-pated", "definition": "Thick-headed"},
+    {"word": "Leaden-footed", "definition": "Clumsily moving"}
   ],
   "finishers": [
     {"word": "Abomination", "definition": "Loathsome thing; cause of disgust"},
@@ -25,6 +53,20 @@
     {"word": "Bed-presser", "definition": "Heavy, lazy person"},
     {"word": "Blockhead", "definition": "One who is slow to understand; thick-skulled"},
     {"word": "Braggart", "definition": "Person who boasts loudly"},
-    {"word": "Bugbear", "definition": "Bogey; frightful imaginary object"}
+    {"word": "Bugbear", "definition": "Bogey; frightful imaginary object"},
+    {"word": "Bull's Pizzle", "definition": "Bull's penis"},
+    {"word": "Codpiece", "definition": "Pouch worn by men in the front of tight hose of breeches"},
+    {"word": "Capocchia", "definition": "Dolt, simpleton; foreskin"},
+    {"word": "Cornuto", "definition": "Cuckold - a man whose wife was unfaithful was thought to grow horns; from Latin 'cornu' -> horn"},
+    {"word": "Costermonger", "definition": "Fruit and vegetable seller; 'costards' are apples"},
+    {"word": "Cot-quean", "definition": "Man who busies himself with women's household tasks (friggin' OK Shakespeare)"},
+    {"word": "Coxcomb", "definition": "Foolishly vain or conceited person"},
+    {"word": "Cozener", "definition": "Cheater, impostor"},
+    {"word": "Dissembler", "definition": "Hypocrite"},
+    {"word": "Dullard", "definition": "Boring, idiotic person"},
+    {"word": "Dunghill", "definition": "Heap of excrement"},
+    {"word": "Fashion-monger", "definition": "One foolishly concerned with fashion"},
+    {"word": "Fleshmonger", "definition": "Fornicator"},
+    {"word": "Foot-licker", "definition": "Sycophant, flatterer"}
   ]
 }

@@ -14,7 +14,7 @@ exports.run = (client, message, args) => {
   let finisher = client.words.finishers[Math.floor(Math.random() * client.words.finishers.length)];
 
   //< Generate the Insult body with some maw-fucking markdown ferda
-  let insult = `**${starter.word}**, **${middle.word}**, **${finisher.word}**`;
+  let insult = `**${starter.word.toLowerCase()}**, **${middle.word.toLowerCase()}**, **${finisher.word.toLowerCase()}**`;
 
   //< Get the 'joiner' ('a' or 'an' depending on starting character)
   let joiner = getJoiner(starter.word);
@@ -22,11 +22,8 @@ exports.run = (client, message, args) => {
   //< TODO :: Generate an embed with the full definitions of each part
   const weddedAndEmbedded = {
   	color: 0x0099ff,
-  	author: {
-  		name: target.user.username,
-  		icon_url: target.user.avatarURL,
-  	},
-  	description: "Insultron wishes to explicity define what you've just been called.",
+    title: `${message.author.username} hath insulted ${target.user.username}`,
+  	description: "*Insultron* wishes to explicity define what you've just been called.",
   	fields: [
   		{
   			name: `**${starter.word}**`,
@@ -44,7 +41,7 @@ exports.run = (client, message, args) => {
   	timestamp: new Date(),
   	footer: {
   		text: "© Spatula City",
-  		icon_url: target.user.avatarURL,
+  		icon_url: client.user.avatarURL,
   	},
   };
 
