@@ -1,5 +1,5 @@
 {
-  "revision": "2020.04.22.01",
+  "revision": "2020.04.22.02",
   "starters": [
     {"word": "Apish", "definition": "Foolish, resembling an ape"},
     {"word": "Artless", "definition": "Crude, unskillful"},
@@ -35,7 +35,7 @@
     {"word": "Naughty", "definition": "Wicked, worthless; this word has stronger meaning in Shakespeare's time than in ours"},
     {"word": "Obscene", "definition": "Repugnant, morally offensive"},
     {"word": "Overgorged", "definition": "Gluttonously stuffed"},
-    {"word": "Panderly", "definition": "Pimping (see: Wayne Brady)"},
+    {"word": "Panderly", "definition": "Pimping (see: Wayne Brady)"}
   ],
   "middles": [
     {"word": "Bald-pated", "definition": "Lacking hair on the scalp"},

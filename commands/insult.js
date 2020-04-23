@@ -18,7 +18,7 @@ exports.run = (client, message, args) => {
 
   //< Get the 'joiner' ('a' or 'an' depending on starting character)
   let joiner = getJoiner(starter.word);
-  
+
   //< TODO :: Generate an embed with the full definitions of each part
   const weddedAndEmbedded = {
   	color: 0x0099ff,
@@ -41,15 +41,15 @@ exports.run = (client, message, args) => {
   	timestamp: new Date(),
   	footer: {
   		text: "© Spatula City",
-  		icon_url: client.user.avatarURL,
+  		icon_url: message.author.avatarURL,
   	},
   };
 
   //< Reply to them bitches (and then react to your own joke you bot fuck)
   message.channel.send({content:`${target}, you are ${joiner} ${insult}!`, embed: weddedAndEmbedded })
     .then((msg) => {
-      msg.react('👍');
-      msg.react('👎');
+      msg.react('🔥');
+      msg.react('💩');
     }).catch(console.error);
 }
 
