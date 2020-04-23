@@ -23,4 +23,4 @@ Made a readme ferda, also.
 5. Syllable count optimization.
 6. For @fusty, it just says "you fusty" 
 
--- How-to --
+-- How to use (and not abuse) --
